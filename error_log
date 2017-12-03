@@ -1,0 +1,6 @@
+[03-Sep-2016 08:31:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/salve682/public_html/fbdemo/index.php on line 8
+[03-Sep-2016 08:31:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/salve682/public_html/fbdemo/index.php on line 8
+[03-Sep-2016 08:31:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/salve682/public_html/fbdemo/index.php on line 8
+[03-Sep-2016 08:31:27] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/salve682/public_html/fbdemo/index.php on line 8
+[03-Sep-2016 08:31:27] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/salve682/public_html/fbdemo/index.php on line 8
+[03-Sep-2016 08:31:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/salve682/public_html/fbdemo/index.php on line 8
